@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sayanwastaken@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1H7TM-JK1pIHc8-7nKv4tFC4x2wozgcMz/view?usp=sharing](https://drive.google.com/file/d/1H7TM-JK1pIHc8-7nKv4tFC4x2wozgcMz/view?usp=sharing)
+- 📄 Take a look at my Resume [click here](https://drive.google.com/file/d/1H7TM-JK1pIHc8-7nKv4tFC4x2wozgcMz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
