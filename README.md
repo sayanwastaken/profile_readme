@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sayan Das</h1>
+<h1 align="center">Hi 👋, I'm Sayan</h1>
 <h3 align="center">A skilled and passionate full stack web developer specializing in MERN techstack.</h3>
 
 
