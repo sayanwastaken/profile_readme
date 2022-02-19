@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sayanwastaken@gmail.com**
 
-- 🎯 My leisurely activity includes **playing guitar,watching anime,stand-up comedy etc
+- 🎯 My leisurely activity includes **playing guitar,watching anime,stand-up comedy etc**
 
 - 📄 Take a look at my Resume [click here](https://drive.google.com/file/d/1H7TM-JK1pIHc8-7nKv4tFC4x2wozgcMz/view?usp=sharing)
 <hr/>
