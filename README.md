@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayan</h1>
-<h3 align="center">A skilled and passionate full stack web developer specializing in MERN techstack.</h3>
+<h3 align="center">A skilled and passionate full stack web developer.</h3>
 
 
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **react ,frontend, css3 **
+- 💬 Ask me about **react ,frontend, css3**
 
 - 📫 How to reach me **sayanwastaken@gmail.com**
 
