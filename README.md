@@ -1,19 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayan</h1>
 <h3 align="center">A skilled and passionate full stack web developer.</h3>
 
-
-
-- 🔭 I’m currently working on **React projects**
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **react ,frontend, css3**
-
-- 📫 How to reach me **sayanwastaken@gmail.com**
-
-- 🎯 My leisurely activity includes **playing guitar,watching anime,stand-up comedy etc**
-
-- 📄 Take a look at my Resume [click here](https://drive.google.com/file/d/1_F4GZXHCL2uYUg77zZV80FU9oFekraA4/view?usp=sharing)
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
